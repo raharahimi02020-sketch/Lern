@@ -1,7 +1,6 @@
 [
   {
-    "تصویر": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgslG46r3mwakqN6P0hdqtO2v4s1CM3iFKOqLyGDaLkQ&s=10",
-    "لینک": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgslG46r3mwakqN6P0hdqtO2v4s1CM3iFKOqLyGDaLkQ&s=10",
-    "تبلیغات3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgslG46r3mwakqN6P0hdqtO2v4s1CM3iFKOqLyGDaLkQ&s=10"
+    "تصویر": "https://s34.picofile.com/file/8486926084/Picsart_25_09_14_17_32_24_152.png",
+    "لینک": "https://t.me/+MM3djJbskGEwYzM0"
   }
 ]
