@@ -38,5 +38,13 @@
   {
     "تصویر": "https://s34.picofile.com/file/8486950650/Picsart_25_09_15_18_25_37_173.png",
     "لینک": "https://t.me/+lprQIazK0CVjNGY8"
+  },
+  {
+    "تصویر": "https://s34.picofile.com/file/8486950726/Picsart_25_09_15_18_27_24_207.png",
+    "لینک": "https://t.me/+YlAIxwtmo-4zMDFk"
+  },
+  {
+    "تصویر": "https://s34.picofile.com/file/8486950784/Picsart_25_09_15_18_28_37_451.png",
+    "لینک": "https://t.me/+GTdnLUsUe5o2YzVk"
   }
 ]
