@@ -26,5 +26,17 @@
   {
     "تصویر": "https://s34.picofile.com/file/8486942900/Picsart_25_09_15_12_25_32_367.png",
     "لینک": "https://t.me/+QBiqaRBAt6Q1NDM8"
+  },
+  {
+    "تصویر": "https://s34.picofile.com/file/8486950526/Picsart_25_09_15_18_22_09_699.png",
+    "لینک": "https://t.me/+3aKwBnSR54IwZThk"
+  },
+  {
+    "تصویر": "https://s34.picofile.com/file/8486950550/Picsart_25_09_15_18_23_17_827.png",
+    "لینک": "https://t.me/+QJ0Ot6SzXXkxYmI0"
+  },
+  {
+    "تصویر": "https://s34.picofile.com/file/8486950650/Picsart_25_09_15_18_25_37_173.png",
+    "لینک": "https://t.me/+lprQIazK0CVjNGY8"
   }
 ]
