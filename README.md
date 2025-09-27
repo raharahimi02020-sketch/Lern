@@ -16,7 +16,7 @@
     "لینک": "https://t.me/+B6gQYajpKH1lZjc8"
   },
   {
-    "تصویر": "https://s34.picofile.com/file/8486942542/Picsart_25_09_15_12_17_31_782.png",
+    "تصویر": "https://s34.picofile.com/file/8487157118/5.png",
     "لینک": "https://t.me/+i_eqsRt974E1YjM0"
   },
   {
