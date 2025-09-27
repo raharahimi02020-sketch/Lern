@@ -4,7 +4,7 @@
     "لینک": "https://t.me/+MM3djJbskGEwYzM0"
   },
   {
-    "تصویر": "https://s34.picofile.com/file/8486926776/Picsart_25_09_14_18_34_05_403.png",
+    "تصویر": "https://s34.picofile.com/file/8487156818/2.png",
     "لینک": "https://t.me/+2N4W2KAqyWJhYWE0"
   },
   {
