@@ -8,7 +8,7 @@
     "لینک": "https://t.me/+2N4W2KAqyWJhYWE0"
   },
   {
-    "تصویر": "https://s34.picofile.com/file/8486926792/Picsart_25_09_14_18_35_35_288.png",
+    "تصویر": "https://s34.picofile.com/file/8487156884/3.png",
     "لینک": "https://t.me/+vn9VRJoPo7o3N2Q8"
   },
   {
